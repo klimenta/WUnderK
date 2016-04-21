@@ -24,7 +24,6 @@ namespace WUnderK
         public static Color ForefrontColor;
         //The options form
         public static frmOptions frmBox;
-        //public static string strWUKey = "4c89b5ee1d8d39c4";
         //Weather Underground API key. A must.
         public static string strWUKey = "";
         //Initial City tells you to click options.
