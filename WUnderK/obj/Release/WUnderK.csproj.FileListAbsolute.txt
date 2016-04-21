@@ -1,0 +1,11 @@
+C:\Users\Kliment.ANDREEV\Documents\Visual Studio 2015\Projects\WUnderK\WUnderK\bin\Release\WUnderK.exe.config
+C:\Users\Kliment.ANDREEV\Documents\Visual Studio 2015\Projects\WUnderK\WUnderK\bin\Release\WUnderK.exe
+C:\Users\Kliment.ANDREEV\Documents\Visual Studio 2015\Projects\WUnderK\WUnderK\bin\Release\WUnderK.pdb
+C:\Users\Kliment.ANDREEV\Documents\Visual Studio 2015\Projects\WUnderK\WUnderK\bin\Release\Newtonsoft.Json.dll
+C:\Users\Kliment.ANDREEV\Documents\Visual Studio 2015\Projects\WUnderK\WUnderK\bin\Release\Newtonsoft.Json.xml
+C:\Users\Kliment.ANDREEV\Documents\Visual Studio 2015\Projects\WUnderK\WUnderK\obj\Release\WUnderK.Form1.resources
+C:\Users\Kliment.ANDREEV\Documents\Visual Studio 2015\Projects\WUnderK\WUnderK\obj\Release\WUnderK.frmOptions.resources
+C:\Users\Kliment.ANDREEV\Documents\Visual Studio 2015\Projects\WUnderK\WUnderK\obj\Release\WUnderK.Properties.Resources.resources
+C:\Users\Kliment.ANDREEV\Documents\Visual Studio 2015\Projects\WUnderK\WUnderK\obj\Release\WUnderK.csproj.GenerateResource.Cache
+C:\Users\Kliment.ANDREEV\Documents\Visual Studio 2015\Projects\WUnderK\WUnderK\obj\Release\WUnderK.exe
+C:\Users\Kliment.ANDREEV\Documents\Visual Studio 2015\Projects\WUnderK\WUnderK\obj\Release\WUnderK.pdb
