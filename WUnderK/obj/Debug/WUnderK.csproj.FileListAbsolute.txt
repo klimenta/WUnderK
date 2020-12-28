@@ -9,3 +9,16 @@ C:\Users\Kliment.ANDREEV\Documents\Visual Studio 2015\Projects\WUnderK\WUnderK\o
 C:\Users\Kliment.ANDREEV\Documents\Visual Studio 2015\Projects\WUnderK\WUnderK\obj\Debug\WUnderK.pdb
 C:\Users\Kliment.ANDREEV\Documents\Visual Studio 2015\Projects\WUnderK\WUnderK\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Kliment.ANDREEV\Documents\Visual Studio 2015\Projects\WUnderK\WUnderK\bin\Debug\Newtonsoft.Json.xml
+P:\dotnet\WUnderK\WUnderK\bin\Debug\WUnderK.exe.config
+P:\dotnet\WUnderK\WUnderK\bin\Debug\WUnderK.exe
+P:\dotnet\WUnderK\WUnderK\bin\Debug\WUnderK.pdb
+P:\dotnet\WUnderK\WUnderK\bin\Debug\Newtonsoft.Json.dll
+P:\dotnet\WUnderK\WUnderK\bin\Debug\Newtonsoft.Json.xml
+P:\dotnet\WUnderK\WUnderK\obj\Debug\WUnderK.Form1.resources
+P:\dotnet\WUnderK\WUnderK\obj\Debug\WUnderK.frmOptions.resources
+P:\dotnet\WUnderK\WUnderK\obj\Debug\WUnderK.Properties.Resources.resources
+P:\dotnet\WUnderK\WUnderK\obj\Debug\WUnderK.csproj.GenerateResource.cache
+P:\dotnet\WUnderK\WUnderK\obj\Debug\WUnderK.csproj.CoreCompileInputs.cache
+P:\dotnet\WUnderK\WUnderK\obj\Debug\WUnderK.csproj.CopyComplete
+P:\dotnet\WUnderK\WUnderK\obj\Debug\WUnderK.exe
+P:\dotnet\WUnderK\WUnderK\obj\Debug\WUnderK.pdb
